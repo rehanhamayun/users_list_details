@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:sqf_lite/sqflite_database/database.dart';
 import 'package:sqf_lite/sqflite_database/model.dart';
 
-import 'add_data.dart';
+import 'sqflite_database/add_data.dart';
 
 void main() {
   runApp(const MyApp());
